@@ -44,27 +44,38 @@ namespace LunchOrderingSystem
 
             var manager = new OrderManager(units);
 
+
+
             manager.AssignOrder(new Order
             {
                 Id = 1,
                 Product = new Product { Id = 1, Name = "Product 1", Description = "Product 1 Description", Price = 100 },
                 Quantity = 2,
-                ProcessingTime = TimeSpan.FromMinutes(10)
+                ProcessingTime = TimeSpan.FromSeconds(10)
             });
             manager.AssignOrder(new Order
             {
                 Id = 2,
                 Product = new Product { Id = 2, Name = "Product 2", Description = "Product 2 Description", Price = 200 },
                 Quantity = 1,
-                ProcessingTime = TimeSpan.FromMinutes(5)
+                ProcessingTime = TimeSpan.FromSeconds(5)
             });
             manager.AssignOrder(new Order
             {
                 Id = 3,
                 Product = new Product { Id = 3, Name = "Product 3", Description = "Product 3 Description", Price = 300 },
                 Quantity = 3,
-                ProcessingTime = TimeSpan.FromMinutes(15)
+                ProcessingTime = TimeSpan.FromSeconds(15)
             });
+
+            manager.AssignOrder(new Order
+            {
+                Id = 4,
+                Product = new Product { Id = 2, Name = "Product 2", Description = "Product 2 Description", Price = 200 },
+                Quantity = 1,
+                ProcessingTime = TimeSpan.FromSeconds(5)
+            });
+
             Console.ReadLine();
 
 
