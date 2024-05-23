@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\bin\Debug\LunchOrderingSystem.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\bin\Debug\LunchOrderingSystem.exe
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\bin\Debug\LunchOrderingSystem.pdb
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.exe
+C:\Users\ASUS\Documents\Visual Studio 2022\LunchOrderingSystem\obj\Debug\LunchOrderingSystem.pdb
